@@ -1,4 +1,4 @@
-Go back to Part 1 of the report[click here](https://hub.uvcemarvel.in/work/e124d154-4219-493a-971c-7c42bd49b872)
+Go back to Part 1 of the report [click here](https://hub.uvcemarvel.in/work/e124d154-4219-493a-971c-7c42bd49b872)
 
 # TASK 18: Sad servers - "Like LeetCode for Linux"
 Sad Servers is a hands-on platform designed to strengthen Linux troubleshooting skills. It offers a variety of real-world problems across different difficulty levels, allowing users to practice and improve systematically. A key challenge of the platform is its time-bound environment, where each session has a strict limit and the connection closes once time expires. This creates a high-pressure scenario that tests both technical knowledge and problem-solving speed.
