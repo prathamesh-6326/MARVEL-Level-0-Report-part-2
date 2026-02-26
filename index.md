@@ -10,8 +10,8 @@ For this task i used commands like:
 - `cd` - to navigate between directories
 - `cat`, `less` - to read file contents
 - `grep` - to search for specific patterns in files
-etc...
-![Image](https://github.com/user-attachments/assets/739e897d-e5ca-4a80-9493-d9c71816980f)
+etc..
+
 ![Image](https://github.com/user-attachments/assets/a6d4b44b-8293-4888-9042-79e030173a0d)
 ***Final outcome:*** After a couple of trials, I successfully identified the murderer.
 
