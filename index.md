@@ -32,7 +32,7 @@ The objective of this task was to build a **Resource library** webapp using *Exp
 ![Image](https://github.com/user-attachments/assets/1f033225-1e07-410d-923a-4c6aa8f40642)
 [GitHub Repository](https://github.com/prathamesh-6326/Mini-Expense-Tracker.git)
 
-[Mini Expense Tracker](https://mini-expense-tracker-yshz.onrender.com)
+  [Mini Expense Tracker](https://mini-expense-tracker-yshz.onrender.com)
 
 ***Final outcome:*** The Mini Expense Tracker was successfully implemented, allowing users to add, categorize, and track their expenses across multiple categories.
 
